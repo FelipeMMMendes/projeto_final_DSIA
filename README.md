@@ -39,6 +39,10 @@ http://localhost:8000/recomenda_produtos?product_id=B096MSW6CT
 
 Nesse exemplo acima do método de recomendação, o product id é B096MSW6CT, ele aceita apenas um product id por vez.
 
+### Estruturação do projeto
+
+Na pasta código, estão todos os códigos que usamos para fazer o sistema de recomendação e a serialização do mesmo. Na pasta data estão os dados que foram usados no treinamneto do modelo de recomendação. A única pasta que realmente importa é a sistema_recomendacao_endpoint, onde está a configuração da API. Incluimos as outras para acrescentar na visualização do projeto.
+
 
 
 
