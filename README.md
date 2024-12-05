@@ -2,10 +2,10 @@
 
 #### Identificação do grupo:
 
-Felipe Martins Machado Mendes - 22251506 
-Gabriel Barreto Carvalho Telles - 22251719
-Lucas Araujo de Alencar - 22251690 
-Pedro Gabriel Neves da Silva - 22251715
+Felipe Martins Machado Mendes - 22251506  
+Gabriel Barreto Carvalho Telles - 22251719  
+Lucas Araujo de Alencar - 22251690  
+Pedro Gabriel Neves da Silva - 22251715  
 
 ### Como rodar o projeto:
 
